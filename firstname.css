@@ -1,0 +1,25 @@
+body{
+	
+	font-family: arial;
+	border: 1px black ;
+	padding: 50px;
+}
+h1{border-bottom:  black solid 2px;
+font-size: 50px	
+}
+	
+h3{ border-bottom: black solid thin;	
+}
+
+ label {
+	  display: block;
+	  padding-bottom: 0.3rem;}
+	  input {
+	  padding:6px;
+    width: 87%;
+  }
+   textarea {
+	  padding: 20px;
+	width: 85%;
+	inline-size: non;
+}
